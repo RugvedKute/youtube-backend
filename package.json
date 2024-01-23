@@ -1,0 +1,14 @@
+{
+  "name": "youtube-backend",
+  "version": "1.0.0",
+  "description": "a complex yt backend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "author": "Rugved Kute",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
